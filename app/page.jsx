@@ -62,7 +62,7 @@ const HomePage = () => {
                 </span>
               </p>
               <a
-                href={`https://drive.google.com/file/d/1Hi60TuT_KzqpxPqFBbmS2g5aY48t7ULy/view?usp=sharing`}
+                href={`https://drive.google.com/file/d/1VPMB3qY8EBsG2kneIUc6Y7EXnlRT8cWU/view?usp=drive_link`}
                 className="border text-center border-[#1D1D1D] py-4 px-6 rounded-lg w-40 text-sm text-accent/90"
               >
                 Download CV
