@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my expertise as an **n8n AI Au
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![React](https://img.shields.io/badge/React-18-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8)
 
-## 🌟 Features 
+## Features 
 
 - **Modern Design**: Clean, professional layout with dark theme
 - **Responsive**: Fully responsive across all devices and screen sizes
