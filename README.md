@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing my expertise as an **n8n AI Au
 
 ## Features 
 
-- **Modern Design**: Clean, professional layout with dark theme
+- **Modern Design**: Clean, professional layout with dark theme.
 - **Responsive**: Fully responsive across all devices and screen sizes
 - **Interactive Elements**: Smooth hover effects and cursor following animation
 - **Project Showcase**: Detailed project cards with technology badges
