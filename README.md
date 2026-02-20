@@ -1,4 +1,4 @@
-# 🚀 Prajwal Gopal Poojary - Portfolio Website
+#  Prajwal Gopal Poojary - Portfolio Website
 
 A modern, responsive portfolio website showcasing my expertise as an **n8n AI Automation Specialist** and **No-Code Workflow Engineer**. Built with Next.js, React, and Tailwind CSS, featuring smooth animations and an elegant dark theme.
 
